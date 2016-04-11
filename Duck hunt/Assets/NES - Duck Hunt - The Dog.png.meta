@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 95f76559c50cf354483e8d297057ddfc
+timeCreated: 1460130117
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Duck Hunt - The Dog_0
+    21300002: NES - Duck Hunt - The Dog_1
+    21300004: NES - Duck Hunt - The Dog_2
+    21300006: NES - Duck Hunt - The Dog_3
+    21300008: NES - Duck Hunt - The Dog_4
+    21300010: NES - Duck Hunt - The Dog_5
+    21300012: NES - Duck Hunt - The Dog_6
+    21300014: NES - Duck Hunt - The Dog_7
+    21300016: NES - Duck Hunt - The Dog_8
+    21300018: NES - Duck Hunt - The Dog_9
+    21300020: NES - Duck Hunt - The Dog_10
+    21300022: NES - Duck Hunt - The Dog_11
+    21300024: NES - Duck Hunt - The Dog_12
+    21300026: NES - Duck Hunt - The Dog_13
+    21300028: NES - Duck Hunt - The Dog_14
+    21300030: NES - Duck Hunt - The Dog_15
+    21300032: NES - Duck Hunt - The Dog_16
+    21300034: NES - Duck Hunt - The Dog_17
+    21300036: NES - Duck Hunt - The Dog_18
+    21300038: NES - Duck Hunt - The Dog_19
+    21300040: NES - Duck Hunt - The Dog_20
+    21300042: NES - Duck Hunt - The Dog_21
+    21300044: NES - Duck Hunt - The Dog_22
+    21300046: NES - Duck Hunt - The Dog_23
+    21300048: NES - Duck Hunt - The Dog_24
+    21300050: NES - Duck Hunt - The Dog_25
+    21300052: NES - Duck Hunt - The Dog_26
+    21300054: NES - Duck Hunt - The Dog_27
+    21300056: NES - Duck Hunt - The Dog_28
+    21300058: NES - Duck Hunt - The Dog_29
+    21300060: NES - Duck Hunt - The Dog_30
+    21300062: NES - Duck Hunt - The Dog_31
+    21300064: NES - Duck Hunt - The Dog_32
+    21300066: NES - Duck Hunt - The Dog_33
+    21300068: NES - Duck Hunt - The Dog_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES - Duck Hunt - The Dog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 423
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 422
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 422
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 368
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 250
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 175
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 177
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 119
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 72
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 74
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 71
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 72
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 74
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 75
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 74
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Duck Hunt - The Dog_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
